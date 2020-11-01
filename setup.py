@@ -11,7 +11,7 @@ setuptools.setup(
     description="A sample package.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://code.cloud-technology.io/MinamiHasaki/samplepackage.py",
+    url="https://github.com/MinamiHasaki/samplepackage.py",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
